@@ -1,4 +1,5 @@
-baseURL = "https://parikshitg.github.io/shreeniketanlodge/"
+#baseURL = "https://parikshitg.github.io/shreeniketanlodge/"
+baseURL = "https://examplesite.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir = "docs"
