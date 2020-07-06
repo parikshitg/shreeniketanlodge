@@ -4,7 +4,7 @@ date: 2018-07-30T15:12:55+05:30
 draft: false
 ---
 
- <div id="intro">
+<div id="intro">
 <p>
 	 The most vivid travel experiences usually find you by accident, and the qualities that will make you fall in love with a place are rarely the features that took you there, but the essence itself…..Paradise found….. Tucked away in the foothills of the Himalays this heaven could well be described as the Garden of Eden.
 
